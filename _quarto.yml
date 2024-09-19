@@ -2,19 +2,12 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "intern_talk_mss"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+  revealjs:
+    theme: moon
+    footer: "Duke University - Department of Statistical Science"
+    logo: images/logo_hollyc.svg
+    transition: slide
 
 
 
