@@ -9,7 +9,8 @@
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.1.189">
 
-  <title>intern_talk_mss</title>
+  <meta name="author" content="Holly Cui">
+  <title>MSS Intern Talk</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -323,24 +324,54 @@
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">intern_talk_mss</h1>
+  <h1 class="title">MSS Intern Talk</h1>
+  <p class="author">Holly Cui</p>
 </section>
 
-<section class="slide level2">
+<section>
+<section id="intro" class="title-slide slide level1 center">
+<h1>Intro</h1>
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/profile.jpg" style="width:70.0%;height:70.0%"></p>
+</figure>
+</div>
+<h3 id="holly-cui">Holly Cui</h3>
+<div style="font-size: 70%;">
+<p><a href="mailto:yifan.cui@duke.edu">yifan.cui@duke.edu</a></p>
+<p><a href="https://hollyyfc.github.io/">Personal Website</a></p>
+<p><a href="https://www.linkedin.com/in/holly-c-4b4520236/">LinkedIn</a></p>
+</div>
+</div><div class="column" style="width:60%;">
+<div style="font-size: 70%;">
+<h3 id="education">Education</h3>
+<ul>
+<li>M.S. 2nd-year Student in Statistics @ Duke</li>
+<li>B.S. in Statistical Science (DS Concentration); Minor in CS @ Duke</li>
+</ul>
+<h3 id="experiences">Experiences</h3>
+<ul>
+<li>Master’s Statistician Intern (2024) @ Eli Lilly and Company</li>
+<li>Data Science Intern (2022) @ Hiya</li>
+<li>doing research all the other time …</li>
+</ul>
+<p>🤟 R / Shiny / Quarto; Stat Analysis / ML / NLP / Bayesian / Stat Modeling / Causal</p>
+<p>🙅 Python / Java / SWE / 8am (sorry)</p>
 </div>
 </div>
+</div>
 
-
-<img src="images/logo_hollyc.svg" class="slide-logo r-stretch"><div class="footer footer-default">
+<p><img src="images/logo_hollyc.svg" class="slide-logo"></p>
+<div class="footer footer-default">
 <p>Duke University - Department of Statistical Science</p>
 </div>
-</section>
+</section></section>
     </div>
   </div>
 
@@ -552,48 +583,6 @@
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        function fireSlideChanged(previousSlide, currentSlide) {
-
-          // dispatch for htmlwidgets
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for reveal
-        if (window.Reveal) {
-          window.Reveal.addEventListener("slidechanged", function(event) {
-            fireSlideChanged(event.previousSlide, event.currentSlide);
-          });
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

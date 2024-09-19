@@ -1,11 +1,46 @@
 ---
-title: "intern_talk_mss"
+title: "MSS Intern Talk"
+subtitle: ""
+author: "Holly Cui"
+format: revealjs
+editor: visual
 ---
 
-This is a Quarto website.
+# Intro
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 
 
-```{r}
-1 + 1
-```
+::: columns
+::: {.column width="40%"}
+![](images/profile.jpg){fig-align="left" width="70%" height="70%"}
+
+### Holly Cui
+
+::: {style="font-size: 70%;"}
+[yifan.cui\@duke.edu](mailto:yifan.cui@duke.edu)
+
+[Personal Website](https://hollyyfc.github.io/)
+
+[LinkedIn](https://www.linkedin.com/in/holly-c-4b4520236/)
+:::
+:::
+
+::: {.column width="60%"}
+::: {style="font-size: 70%;"}
+### Education
+
+-   M.S. 2nd-year Student in Statistics \@ Duke
+-   B.S. in Statistical Science (DS Concentration); Minor in CS \@ Duke
+
+### Experiences
+
+-   Master's Statistician Intern (2024) \@ Eli Lilly and Company
+-   Data Science Intern (2022) \@ Hiya
+-   doing research all the other time ...
+
+🤟 R / Shiny / Quarto; Stat Analysis / ML / NLP / Bayesian / Stat Modeling / Causal
+
+🙅 Python / Java / SWE / 8am (sorry)
+:::
+:::
+:::
