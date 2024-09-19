@@ -4,6 +4,69 @@
     "href": "index.html#section",
     "title": "MSS Intern Talk",
     "section": "",
-    "text": "Holly Cui\n\nyifan.cui@duke.edu\nPersonal Website\nLinkedIn\n\n\n\nEducation\n\nM.S. 2nd-year Student in Statistics @ Duke\nB.S. in Statistical Science (DS Concentration); Minor in CS @ Duke\n\nExperiences\n\nMaster’s Statistician Intern (2024) @ Eli Lilly and Company\nData Science Intern (2022) @ Hiya\ndoing research all the other time …\n\n🤟 R / Shiny / Quarto; Stat Analysis / ML / NLP / Bayesian / Stat Modeling / Causal\n🙅 Python / Java / SWE / 8am (sorry)\n\n\n\n\n\n\nDuke University - Department of Statistical Science"
+    "text": "Holly Cui\n\nyifan.cui@duke.edu\nPersonal Website\nLinkedIn\n\n\n\nEducation\n\nM.S. 2nd-year Student in Statistics @ Duke\nB.S. in Statistical Science (DS Concentration); Minor in CS @ Duke\n\nExperiences\n\nMaster’s Statistician Intern (2024) @ Eli Lilly and Company\nData Science Intern (2022) @ Hiya\ndoing research all the other time …\n\n🤟 R / Shiny / Quarto; Stat Analysis / ML / NLP / Bayesian / Stat Modeling / Causal\n🙅 Python / Java / SWE / 8am (sorry)"
+  },
+  {
+    "objectID": "index.html#eli-lilly-and-company",
+    "href": "index.html#eli-lilly-and-company",
+    "title": "MSS Intern Talk",
+    "section": "Eli Lilly and Company",
+    "text": "Eli Lilly and Company\n\n\n\n\n\n\nFounded in 1876 in Indiana by Colonel Eli Lilly\nA global powerhouse in pharmaceuticals, specializing in medicines for diabetes, oncology, immunology, etc\nOperates in 110+ countries with 43,000+ employees worldwide\nTrulicity, Mounjaro, Zepbound (diabetes); Kisunla (recently approved for Alzheimer treatment)\nThe 1st company to mass-produce insulin in 1923"
+  },
+  {
+    "objectID": "index.html#amazing-performance-since-2023",
+    "href": "index.html#amazing-performance-since-2023",
+    "title": "MSS Intern Talk",
+    "section": "Amazing performance since 2023",
+    "text": "Amazing performance since 2023"
+  },
+  {
+    "objectID": "index.html#intern-experience",
+    "href": "index.html#intern-experience",
+    "title": "MSS Intern Talk",
+    "section": "Intern Experience",
+    "text": "Intern Experience\nClinical Trials\n👩‍🔬 Biologists / Chemists: discover potential compounds (1M+)\n🐁 Animal Testing (1K+)\n💊 Human Testing (100+) -> Clinical Trials:\n\nPhase 1: ~10 cases -> 1st trial in human subject (safety)\nPhase 2: ~100 cases -> test out the best dosage (efficacy)\nPhase 3: ~1000 cases -> validating the results from previous phases\nPhase 4: general population -> after FDA approval, review public/hospital data\n\n\nStatisticians are vital to the development of new drugs, from study design to approval reporting!"
+  },
+  {
+    "objectID": "index.html#intern-experience-cont.",
+    "href": "index.html#intern-experience-cont.",
+    "title": "MSS Intern Talk",
+    "section": "Intern Experience (cont.)",
+    "text": "Intern Experience (cont.)\nMy Work\n\nComputational Stats ➡️ Diabetes | Phase 3\nAutomate safety reporting pipeline with R Shiny app & SAS, ensuring consistency and efficiency\nReview compound protocols and statistical analysis plans; understand study design (hypothesis testing, causal inference, hierarchical modeling, etc); data cleaning / pre-processing / EDA / analysis / visualization (TFL)\n\n\n\n\n\n\n\nTips\n\n\n\nHighly regulated industry: require interpretability and reproducibility\nMaster (computational: heavy programming) vs. PhD (study design: more math)\nPlay to your advantage in stats (over biostat/CS/math)"
+  },
+  {
+    "objectID": "index.html#application-timeline",
+    "href": "index.html#application-timeline",
+    "title": "MSS Intern Talk",
+    "section": "Application Timeline",
+    "text": "Application Timeline\n\nDec 2023: Submit application\nMid Jan 2024: HR reach out\nLate Jan 2024: Interview (yes just one round)\nOffer within a week\n\nInsanely great company, amazing benefits, a lot of Duke alum (but also Tarheels), and opportunity to collaborate with global talents [Headquarter in IN]\n\n⭐️ Lilly offers sponsorship to international students"
+  },
+  {
+    "objectID": "index.html#job-hunting-hub",
+    "href": "index.html#job-hunting-hub",
+    "title": "MSS Intern Talk",
+    "section": "Job Hunting Hub",
+    "text": "Job Hunting Hub\n\nApplication Tracker + Technical Overview + Template Answer (of all your experiences on resume) for Behavioral 👉 Templates on Notion"
+  },
+  {
+    "objectID": "index.html#personal-website",
+    "href": "index.html#personal-website",
+    "title": "MSS Intern Talk",
+    "section": "Personal Website",
+    "text": "Personal Website\n\nYour portfolio with everything embedded / linked!"
+  },
+  {
+    "objectID": "index.html#ai-filling-tool",
+    "href": "index.html#ai-filling-tool",
+    "title": "MSS Intern Talk",
+    "section": "AI filling tool",
+    "text": "AI filling tool\n\nApplication filled within seconds & highly accurate"
+  },
+  {
+    "objectID": "index.html#important-courses",
+    "href": "index.html#important-courses",
+    "title": "MSS Intern Talk",
+    "section": "Important Courses",
+    "text": "Important Courses\nFrequently asked in all technical interview:\n\nSTA 521 - Predictive Modeling\nSTA 523 - Statistical Programming (R) & STA 663 (Python)\nSTA 532 - Statistical Inference\n\nIf you target Pharma:\n\nSTA 522 - Study Design\nSTA 640 - Causal Inference\nSurvival Analysis / Time Series\n\nIf you target Data Science:\n\nSTA ? - Machine Learning (by Cynthia Rudin)\nIDS 721 - Cloud Computing"
   }
 ]

@@ -44,3 +44,116 @@ editor: visual
 :::
 :::
 :::
+
+# Internship \@ Lilly
+
+## Eli Lilly and Company {.smaller}
+
+[![](images/lilly3.svg.png){fig-align="center" width="35%" height="35%"}](https://www.lilly.com/)
+
+-   Founded in 1876 in Indiana by Colonel Eli Lilly
+-   A global powerhouse in pharmaceuticals, specializing in medicines for diabetes, oncology, immunology, etc
+-   Operates in 110+ countries with 43,000+ employees worldwide
+-   Trulicity, Mounjaro, Zepbound (diabetes); Kisunla (recently approved for Alzheimer treatment)
+-   The 1st company to mass-produce insulin in 1923
+
+## Amazing performance since 2023
+
+::: {style="text-align: center;"}
+```{=html}
+<iframe width="1000" height="600" src="https://companiesmarketcap.com/" frameborder="1" style="background:white;"></iframe>
+```
+:::
+
+## Intern Experience {.smaller}
+
+### Clinical Trials
+
+👩‍🔬 **Biologists / Chemists**: discover potential compounds (1M+)
+
+🐁 **Animal Testing** (1K+)
+
+💊 **Human Testing** (100+) -\> Clinical Trials:
+
+-   **Phase 1**: \~10 cases -\> 1st trial in human subject (safety)
+-   **Phase 2**: \~100 cases -\> test out the best dosage (efficacy)
+-   **Phase 3**: \~1000 cases -\> validating the results from previous phases
+-   **Phase 4**: general population -\> after FDA approval, review public/hospital data
+
+> Statisticians are vital to the development of new drugs, from study design to approval reporting!
+
+## Intern Experience (cont.) {.smaller}
+
+### My Work
+
+-   Computational Stats ➡️ Diabetes \| Phase 3
+-   Automate safety reporting pipeline with R Shiny app & SAS, ensuring consistency and efficiency
+-   Review compound protocols and statistical analysis plans; understand study design (hypothesis testing, causal inference, hierarchical modeling, etc); data cleaning / pre-processing / EDA / analysis / visualization (TFL)
+
+::: callout-tip
+## Tips
+
+-   Highly regulated industry: require interpretability and reproducibility
+-   Master (computational: heavy programming) vs. PhD (study design: more math)
+-   Play to your advantage in stats (over biostat/CS/math)
+:::
+
+## Application Timeline
+
+-   `Dec 2023`: Submit application
+-   `Mid Jan 2024`: HR reach out
+-   `Late Jan 2024`: Interview (yes just one round)
+-   Offer within a week
+
+Insanely great company, amazing benefits, a lot of Duke alum (but also Tarheels), and opportunity to collaborate with global talents \[Headquarter in IN\]
+
+::: {style="font-size: 65%;"}
+⭐️ *Lilly offers sponsorship to international students*
+:::
+
+# Recruiting Tips
+
+## Job Hunting Hub {.smaller}
+
+> Application Tracker + Technical Overview + Template Answer (of all your experiences on resume) for Behavioral 👉 [Templates on Notion](https://www.notion.so/templates/category/job-application-tracking)
+
+![](images/hub.png){fig-align="center" width="60%"}
+
+## Personal Website {.smaller}
+
+> Your portfolio with everything embedded / linked!
+
+::: {style="text-align: center;"}
+```{=html}
+<iframe width="900" height="500" src="https://hollyyfc.github.io/" frameborder="1" style="background:white;"></iframe>
+```
+:::
+
+## AI filling tool {.smaller}
+
+> Application filled within seconds & highly accurate
+
+[![](images/simplify_uw.png){fig-align="center" width="65%" height="65%"}](https://simplify.jobs/)
+
+## Important Courses {.smaller}
+
+**Frequently asked in all technical interview:**
+
+-   STA 521 - Predictive Modeling
+-   STA 523 - Statistical Programming (R) & STA 663 (Python)
+-   STA 532 - Statistical Inference
+
+**If you target Pharma:**
+
+-   STA 522 - Study Design
+-   STA 640 - Causal Inference
+-   Survival Analysis / Time Series
+
+**If you target Data Science:**
+
+-   STA ? - Machine Learning (by Cynthia Rudin)
+-   IDS 721 - Cloud Computing
+
+# Created with [quarto](https://quarto.org/docs/presentations/)
+
+
